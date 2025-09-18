@@ -8,7 +8,6 @@
 - **AI & ML:** Machine Learning, Deep Learning, Applied ML Projects  
 - **Finance:** Technical Analysis, Algorithmic Trading, Quantitative Strategies  
 - **IoT & Hardware:** Arduino, ESP32, GSM/GPS Modules  
-- **Cloud Computing:** NPTEL Certified  
 
 ## 📊 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulyadav-6&show_icons=true&theme=radical)  
