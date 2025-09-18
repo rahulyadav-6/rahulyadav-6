@@ -1,16 +1,14 @@
 # 👋 Hi, I’m Rahul Kumar  
-🎓 Integrated M.Tech Student in Artificial Intelligence at VIT Bhopal University  
-💻 Passionate about AI, coding, trading, and technology  
-📊 Exploring Quantitative Finance, Algorithms, and Machine Learning  
-⚡ Hands-on with IoT projects (Arduino, ESP32, GSM/GPS Modules)  
+🎓 Integrated M.Tech in Artificial Intelligence | VIT Bhopal University  
+💻 AI & Machine Learning Enthusiast | Quantitative Finance | Algo Trading | IoT Innovator  
 🌱 Founder of **TradeXDelta** – From Knowledge to Profit  
 
-## 🛠️ Skills
-- Python | C++ | JavaScript  
-- Machine Learning & AI  
-- Technical Analysis & Algo Trading  
-- IoT & Hardware (Arduino, ESP32, GSM/GPS Modules)  
-- Cloud Computing (Certified by NPTEL)  
+## 🛠️ Technical Skills
+- **Programming:** Python | C++ | JavaScript  
+- **AI & ML:** Machine Learning, Deep Learning, Applied ML Projects  
+- **Finance:** Technical Analysis, Algorithmic Trading, Quantitative Strategies  
+- **IoT & Hardware:** Arduino, ESP32, GSM/GPS Modules  
+- **Cloud Computing:** NPTEL Certified  
 
 ## 📊 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulyadav-6&show_icons=true&theme=radical)  
