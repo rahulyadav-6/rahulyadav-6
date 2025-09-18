@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=AI+Student;Algo+Trader;IoT+Developer;Startup+Founder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=AI+Enthusiast;Algo+Trader;IoT+Developer;Startup+Founder)](https://git.io/typing-svg)
 
 
 🎓 Integrated M.Tech in Artificial Intelligence | VIT Bhopal University  
