@@ -15,3 +15,4 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-kr-yadav-047b54251/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulk49643@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=AI+Student;Trader;IoT+Developer;Startup+Founder)](https://git.io/typing-svg)
