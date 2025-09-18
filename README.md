@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Rahul Kumar  
 
-<!--
-**rahulyadav-6/rahulyadav-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated M.Tech Student in Artificial Intelligence at VIT Bhopal University  
+💻 Passionate about AI, coding, trading, and technology  
+📊 Exploring Quantitative Finance, Algorithms, and Machine Learning  
+⚡ Hands-on with IoT projects (Arduino, ESP32, GSM/GPS Modules)  
+🌱 Founder of **TradeXDelta** – From Knowledge to Profit  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python | C++ | JavaScript  
+- Machine Learning & AI  
+- Technical Analysis & Algo Trading  
+- IoT & Hardware (Arduino, ESP32, GSM/GPS Modules)  
+- Cloud Computing (Certified by NPTEL)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulyadav-6&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
