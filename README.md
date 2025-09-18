@@ -1,9 +1,11 @@
 # 👋 Hi, I’m Rahul Kumar  
 
-![](https://komarev.com/ghpvc/?username=rahulyadav-6&color=blue)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=AI+Student;Trader;IoT+Developer;Startup+Founder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=AI+Student;Algo+Trader;IoT+Developer;Startup+Founder)](https://git.io/typing-svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulyadav-6&layout=compact&theme=radical)
+
 
 
 🎓 Integrated M.Tech in Artificial Intelligence | VIT Bhopal University  
